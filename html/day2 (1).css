@@ -1,0 +1,36 @@
+
+.para{
+    background-color: bisque;
+}
+#para4{
+    background-color: rgb(238, 218, 193);
+}
+/**{
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    color: blue;
+}
+*/
+h1,h2{
+    color: rgb(31, 48, 197);
+}
+#heading{
+    background-color: rgb(142, 136, 153);
+}
+.cont{
+    background-color: rgb(219, 12, 12);
+    color: blue;
+    width: 150px;
+    height:150px;
+    border-radius:1% 50%;
+    text-align: center;
+}
+.cont1{
+    background-color: rgba(113, 17, 204, 0.39);
+    color: rgb(27, 23, 27);
+    width: 150px;
+    height:150px;
+    border-radius:1% 50%;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.cont{
+    background-color: rgb(26, 24, 24);
+    height: 1000px;
+    width: 1000px;
+}
+.box1{
+    background-color: beige;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.box2{
+    background-color: rgb(183, 0, 255);
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 700px;
+}
+.box3{
+    background-color: rgb(204, 127, 255);
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    left: 400px;
+}

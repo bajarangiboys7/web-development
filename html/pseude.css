@@ -1,0 +1,53 @@
+a:link{
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+
+}
+a:active{
+    color: goldenrod;
+}
+a:visited{
+    color: red;
+}
+h2::after{
+    content:"Micheal 👍";
+}
+h2::before{
+    content: "hi ";
+
+}
+p::selection{
+    background-color: black;
+    color: springgreen;
+}
+button{
+    background-color: greenyellow;
+    color: blue;
+    padding: 20px;
+    width: 150px;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: brown;
+    color: blue;
+}
+.ln{
+    background-color: blueviolet;
+    color: blue;
+    padding: 20px;
+    width: 150px;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.ln:hover{
+    background-color: black;
+    color: beige;
+}
